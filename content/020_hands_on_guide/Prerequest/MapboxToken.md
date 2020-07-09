@@ -12,6 +12,6 @@ weight: 30
 请到如下的网站进行账户的开通 https://account.mapbox.com/auth/signin/ 
 ### 获得 Access Token 
 新账户申请成功后，需要创建新的 Access Token, 具体操作如图所示。
-![Image](/images/PreRequest/002.png)
+![Image](/images/PreRequest/015.png)
 
 并获得访问 Mapx 服务的 Token，例如 pk.eyJ1IjoiY2h1bmh1YXYiLCJhIjoiY2s2OHo3xxxxxxxxxbjNkeWZwYjQ4dSJ9.nDexx xxxxxxxx

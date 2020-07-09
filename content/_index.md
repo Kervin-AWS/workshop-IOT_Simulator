@@ -9,4 +9,3 @@ weight: 1
 ![EKS](images/iot-cover.png)
 
 本部署指南讨论了在云上部署物联网设备模拟器的架构注意事项和配置步骤。 
-它包含指向 AWS CloudFormation 模板的链接。
