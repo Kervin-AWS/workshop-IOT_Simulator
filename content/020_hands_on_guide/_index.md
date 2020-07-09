@@ -1,33 +1,14 @@
 ---
-title: "my_chap_tester"
+title: "部署说明"
 weight: 11
 chapter: true
 draft: false
-tags:
-  - beginner
-  - kubeflow
-  - appmesh
-  - CON203
-  - CON205
-  - CON206
 ---
 
-# Introduction to Kubernetes
+#        部署说明      
 
-{{< youtube nyUbmqiYLxA >}}
+本章节将逐步带领您实现AWS 物联网模拟器解决方案的部署。
 
-A walkthrough of basic Kubernetes concepts.
-
-![Title Image](/images/introduction/eks-product-page.png)
-
-Welcome to the Amazon EKS Workshop!
-
-The intent of this workshop is to educate users about the features of Amazon EKS.
-
-Background in EKS, Kubernetes, Docker, and container workflows are not required, but they are recommended.
-
-This chapter will introduce you to the basic workings of Kubernetes, laying the foundation for the hands-on portion of the workshop.
-
-Specifically, we will walk you through the following topics:
+我们将分别从以下步骤进行部署：
 
 {{% children showhidden="false" %}}

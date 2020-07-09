@@ -1,9 +1,7 @@
 ---
-title: "Conclusion"
+title: "总结与展望"
 chapter: true
 weight: 910
-tags:
-  - beginner
 ---
 
 # Conclusion

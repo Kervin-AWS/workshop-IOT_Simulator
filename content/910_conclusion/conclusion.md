@@ -1,10 +1,10 @@
 ---
-title: "What Have We Accomplished"
+title: "我们收获了什么"
 chapter: false
 weight: 1
 ---
 
-We have:
+我们收获了:
 
 - Deployed an application consisting of microservices
 - Deployed the Kubernetes Dashboard

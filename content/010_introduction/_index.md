@@ -3,13 +3,6 @@ title: "Introduction"
 weight: 10
 chapter: true
 draft: false
-tags:
-  - beginner
-  - kubeflow
-  - appmesh
-  - CON203
-  - CON205
-  - CON206
 ---
 
 # 系统架构
