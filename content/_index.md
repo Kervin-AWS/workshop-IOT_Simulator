@@ -1,12 +1,12 @@
 ---
-title: "Amazon EKS Workshop"
+title: "AWS 物联网设备模拟器解决方案"
 chapter: true
 weight: 1
 ---
 
-<div style="text-align: center"><h2>Amazon EKS Workshop</h2></div>
+<div style="text-align: center"><h2>AWS 物联网设备模拟器解决方案</h2></div>
 
-![EKS](images/3-service-animated.gif)
+![EKS](images/iot-cover.png)
 
-In this workshop, we will explore multiple ways to configure VPC, ALB, and EC2
-Kubernetes workers, and Amazon Elastic Kubernetes Service.
+本部署指南讨论了在云上部署物联网设备模拟器的架构注意事项和配置步骤。 
+它包含指向 AWS CloudFormation 模板的链接。
