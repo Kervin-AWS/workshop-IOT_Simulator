@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>总结与展望 on Amazon EKS Workshop</title>
+    <link>/910_conclusion/</link>
+    <description>Recent content in 总结与展望 on Amazon EKS Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/910_conclusion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我们收获了什么</title>
+      <link>/910_conclusion/conclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/910_conclusion/conclusion/</guid>
+      <description>我们收获了:
+ Deployed an application consisting of microservices Deployed the Kubernetes Dashboard Deployed packages using Helm Deployed a centralized logging infrastructure Configured Automatic scaling of our pods and worker nodes  </description>
+    </item>
+    
+    <item>
+      <title>下一步是什么</title>
+      <link>/910_conclusion/whatsnext/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/910_conclusion/whatsnext/</guid>
+      <description>下一步我们将部署车联网解决方案，并将本实验中模拟的汽车数据作为车联网的数据源。  点击进入车联网Lab</description>
+    </item>
+    
+  </channel>
+</rss>
